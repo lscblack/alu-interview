@@ -1,4 +1,4 @@
-```markdown
+
 # Minimum Operations
 
 This script provides a function `minOperations(n)` to calculate the minimum number of operations required to reach a certain number `n`.
@@ -25,4 +25,5 @@ $ ./minimum_operations.py
    ```
 
 Replace `n` with the desired number for which you want to calculate the minimum operations.
-```
+## Author
+Lscblack
