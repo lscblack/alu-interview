@@ -25,6 +25,5 @@ $ ./minimum_operations.py
    ```
 
 Replace `n` with the desired number for which you want to calculate the minimum operations.
-
-Enjoy optimizing your operations!
-
+## Author
+Lscblack
