@@ -1,9 +1,9 @@
 ```markdown
-# Minimum Operations
+#Minimum Operations
 
 This script provides a function `minOperations(n)` to calculate the minimum number of operations required to reach a certain number `n`.
 
-## How to Use
+##How to Use
 
 1. Make sure you have Python 3 installed on your system.
 2. Save the script to a file named `minimum_operations.py`.
